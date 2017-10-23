@@ -1,0 +1,17 @@
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.WeatherApp.apk
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.WeatherApp-Signed.apk
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\android\bin\WeatherApp.WeatherApp.apk
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\layout\main.xml
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\R.cs.flag
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
